@@ -1,0 +1,12 @@
+c:\!\Demo\IntelliTest\pokerleaguemanager-master\src\PokerLeagueManager.DB.EventStore\bin\Debug\PokerLeagueManager.DB.EventStore.dacpac
+c:\!\Demo\IntelliTest\pokerleaguemanager-master\src\PokerLeagueManager.DB.EventStore\bin\Debug\Publish Profiles\PokerLeagueManager.DB.EventStore.BUILD.publish.xml
+c:\!\Demo\IntelliTest\pokerleaguemanager-master\src\PokerLeagueManager.DB.EventStore\bin\Debug\Publish Profiles\PokerLeagueManager.DB.EventStore.localhost.publish.xml
+c:\!\Demo\IntelliTest\pokerleaguemanager-master\src\PokerLeagueManager.DB.EventStore\bin\Debug\Publish Profiles\PokerLeagueManager.DB.EventStore.DEV.publish.xml
+c:\!\Demo\IntelliTest\pokerleaguemanager-master\src\PokerLeagueManager.DB.EventStore\bin\Debug\PokerLeagueManager.DB.EventStore.dll
+c:\!\Demo\IntelliTest\pokerleaguemanager-master\src\PokerLeagueManager.DB.EventStore\bin\Debug\PokerLeagueManager.DB.EventStore.pdb
+c:\!\Demo\IntelliTest\pokerleaguemanager-master\src\PokerLeagueManager.DB.EventStore\obj\Debug\PokerLeagueManager.DB.EventStore.dll
+c:\!\Demo\IntelliTest\pokerleaguemanager-master\src\PokerLeagueManager.DB.EventStore\obj\Debug\PokerLeagueManager.DB.EventStore.pdb
+C:\!\Demo\IntelliTest\pokerleaguemanager-master\src\PokerLeagueManager.DB.EventStore\obj\Debug\Model.xml
+C:\!\Demo\IntelliTest\pokerleaguemanager-master\src\PokerLeagueManager.DB.EventStore\obj\Debug\refactor.xml
+C:\!\Demo\IntelliTest\pokerleaguemanager-master\src\PokerLeagueManager.DB.EventStore\obj\Debug\postdeploy.sql
+C:\!\Demo\IntelliTest\pokerleaguemanager-master\src\PokerLeagueManager.DB.EventStore\obj\Debug\predeploy.sql
